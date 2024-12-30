@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Sunnydevji
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML CSS JAVASCRIPT PYTHON AND MANY MORE
-- 💞️ I’m looking to collaborate on HTML + CSS Projects
+- 👀 I’m an Web Developer & Mobile Appication Developer
+- 🌱 I’m currently using MERN, Spring Boot, And React Native
+- 💞️ I’m looking to collaborate on MERN Projects
 - 📫 How to reach me just Email Me or Message Me!!
+- sahastranshu.business@gmail.com
 
 <!---
 Sunnydevji/Sunnydevji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
